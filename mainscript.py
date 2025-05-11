@@ -5,9 +5,10 @@ from justwatch import JustWatch
 
 # === CONFIGURATION ===
 TMDB_API_KEY = "d58935a3624cb12af6521bef5d335d5f"  # Replace this
+# Example for Netflix:
+INPUT_FILE = "netflix_catalog.csv"
+OUTPUT_FILE = "netflix_enriched.csv"
 PLATFORM_NAME = "Netflix"
-INPUT_FILE = "data/raw/netflix_catalog.csv"
-OUTPUT_FILE = "data/processed/netflix_enriched.csv"
 
 # === TMDb API Endpoints ===
 FIND_URL = "https://api.themoviedb.org/3/find/{}?api_key={}&external_source=imdb_id"
