@@ -51,42 +51,31 @@ Worth-the-Watch/
 
 ## Visual Insights
 
-### Value Index by Platform
+Click thumbnails to view full-size charts:
 
-A composite measure combining all normalized metrics to assess overall platform value.
-<img src="Visuals/Value%20Index%20Bar%20Chart.png" width="500"/>
+**Value Index by Platform**  
+Overall value score combining price, quantity, quality, and originality.  
+[<img src="Visuals/Value%20Index%20Bar%20Chart.png" width="200"/>](Visuals/Value%20Index%20Bar%20Chart.png)
 
-![Value Index](Visuals/Value%20Index%20Bar%20Chart.png)
+**Normalized Metric Breakdown**  
+How each platform scores on individual value metrics.  
+[<img src="Visuals/Heatmap%20–%20Normalized%20Metrics.png" width="200"/>](Visuals/Heatmap%20–%20Normalized%20Metrics.png)
 
-### Normalized Metric Breakdown
+**IMDb Score per Dollar**  
+Quality of content per dollar, weighted by ratings and votes.  
+[<img src="Visuals/IMDb%20Score%20per%20Dollar%20(Lollipop%20Chart).png" width="200"/>](Visuals/IMDb%20Score%20per%20Dollar%20(Lollipop%20Chart).png)
 
-Comparison of platforms across individual value metrics. Darker shades indicate better value.
+**Titles vs IMDb Rating**  
+Compares how many titles you get per dollar vs their average IMDb rating; bubble size shows original content count.  
+[<img src="Visuals/IMDb%20vs%20Titles%20per%20Dollar%20(Bubble%20Chart).png" width="200"/>](Visuals/IMDb%20vs%20Titles%20per%20Dollar%20(Bubble%20Chart).png)
 
-![Heatmap](Visuals/Heatmap%20–%20Normalized%20Metrics.png)
+**Originals per Dollar**  
+Number of original titles per dollar of subscription cost.  
+[<img src="Visuals/Originals%20per%20Dollar%20(Donut%20Chart).png" width="200"/>](Visuals/Originals%20per%20Dollar%20(Donut%20Chart).png)
 
-### IMDb Score per Dollar
-
-Comparison of weighted content quality (IMDb rating × votes) per dollar spent.
-
-![IMDb Score per Dollar](Visuals/IMDb%20Score%20per%20Dollar%20(Lollipop%20Chart).png)
-
-### Titles per Dollar vs IMDb Rating
-
-Balancing catalog size and quality. Bubble size represents number of originals.
-
-![Bubble Chart](Visuals/IMDb%20vs%20Titles%20per%20Dollar%20(Bubble%20Chart).png)
-
-### Originals per Dollar
-
-Proportion of original content value by platform.
-
-![Originals per Dollar](Visuals/Originals%20per%20Dollar%20(Donut%20Chart).png)
-
-### Total Titles by Platform
-
-Platform-wise total content offerings.
-
-![Total Titles](Visuals/Total%20Titles%20—%20Amazon%20vs%20Others.png)
+**Total Titles by Platform**  
+How many titles each platform offers overall.  
+[<img src="Visuals/Total%20Titles%20—%20Amazon%20vs%20Others.png" width="200"/>](Visuals/Total%20Titles%20—%20Amazon%20vs%20Others.png)
 
 
 ## Summary of Findings
