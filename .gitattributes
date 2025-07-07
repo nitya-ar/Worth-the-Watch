@@ -1,3 +1,2 @@
-git add .gitattributes
-git commit -m "Remove linguist overrides to restore default language detection"
-git push
+# Set line endings, no linguist overrides
+* text=auto
