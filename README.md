@@ -90,32 +90,20 @@ Platform-wise total content offerings.
 
 ## Summary of Findings
 
-The Value Index ranks streaming platforms based on the return they offer for every dollar spent, factoring in content quality, originality, and catalog size.
-
-### 1. Apple TV Plus - Ranks first in overall value. Delivers consistently top-rated content at the lowest subscription price. A smaller catalog is offset by strong critical acclaim and high efficiency.
-
-### 2. Netflix - Ranks second. Leads in original content volume and maintains strong value overall. Despite a higher price, its investment in exclusives boosts its performance.
-
-### 3. Amazon Prime Video - Ranks third. Offers the largest catalog by far with thousands of titles per dollar. However, average ratings and fewer originals limit its overall value.
-
-### 4. Max - Ranks fourth. Known for high-quality content but has fewer titles and originals than competitors. The subscription price outweighs the depth of its library.
-
-### 5. Hulu - Ranks last. Has the most expensive plan with modest catalog size and minimal original content. Provides the lowest return for cost.
+1. **Apple TV Plus** - Ranks first in overall value. Delivers consistently top-rated content at the lowest subscription price. A smaller catalog is offset by strong critical acclaim and high efficiency.  
+2. **Netflix** - Ranks second. Leads in original content volume and maintains strong value overall. Despite a higher price, its investment in exclusives boosts its performance.  
+3. **Amazon Prime Video** - Ranks third. Offers the largest catalog by far with thousands of titles per dollar. However, average ratings and fewer originals limit its overall value.  
+4. **Max** - Ranks fourth. Known for high-quality content but has fewer titles and originals than competitors. The subscription price outweighs the depth of its library.  
+5. **Hulu** - Ranks last. Has the most expensive plan with modest catalog size and minimal original content. Provides the lowest return for cost.
 
 ## Recommendations
 
-### Combine Apple TV Plus and Netflix - This duo delivers maximum value. Apple TV Plus offers prestige at a low cost, while Netflix brings a broad slate of original content.
-
-### Use Amazon Prime Video as your core service - Best for general variety and volume. Add other platforms to complement originality or critical acclaim.
-
-### Subscribe to Netflix solo if you want originals - No platform outperforms Netflix in exclusive content. Ideal for users who want the latest shows first.
-
-### Skip Hulu unless it comes in a bundle - Standalone value is weak. Only worthwhile if part of a discounted package.
-
-### Use Max as a seasonal subscription - Great for specific high-quality shows. Subscribe when needed, cancel when content runs out.
-
-### Pick Apple TV Plus for top value - Best all-around option. Balances low cost with critically acclaimed content.
-
+**Combine Apple TV Plus and Netflix** - This duo delivers maximum value. Apple TV Plus offers prestige at a low cost, while Netflix brings a broad slate of original content.  
+**Use Amazon Prime Video as your core service** - Best for general variety and volume. Add other platforms to complement originality or critical acclaim.  
+**Subscribe to Netflix solo if you want originals** - No platform outperforms Netflix in exclusive content. Ideal for users who want the latest shows first.  
+**Skip Hulu unless it comes in a bundle** - Standalone value is weak. Only worthwhile if part of a discounted package.  
+**Use Max as a seasonal subscription** - Great for specific high-quality shows. Subscribe when needed, cancel when content runs out.  
+**Pick Apple TV Plus for top value** - Best all-around option. Balances low cost with critically acclaimed content.
 
 ## Medium Article
 
