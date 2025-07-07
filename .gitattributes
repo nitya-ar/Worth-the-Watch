@@ -1,2 +1,2 @@
-*.ipynb linguist-documentation
-*.py linguist-language=Python
+# Set line endings, no linguist overrides
+* text=auto

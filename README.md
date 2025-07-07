@@ -1,95 +1,109 @@
 # Worth-the-Watch
 
-A data-driven analysis comparing the value offered by major streaming platforms in 2025.
+**A data-driven analysis comparing the value offered by major streaming platforms in 2025**
+
+## Overview
+
+As streaming services expand and subscription costs increase, consumers face a common challenge: determining which platforms offer the best return on investment. This project analyzes five major streaming services—Netflix, Hulu, Max, Amazon Prime Video, and Apple TV+—to identify which delivers the most value in 2025 based on content quantity, originality, quality, and pricing.
 
 ## Objective
 
-With the rapid growth of streaming services and rising subscription prices, consumers often struggle to decide which platform delivers the best return on investment. This project addresses that challenge using real data, with the goal of identifying which platform offers the most value for money.
+This project aims to answer the question: **Which streaming service offers the most value for money in 2025?**
+
+The analysis evaluates catalog size, cost, original content offerings, and IMDb ratings, and aggregates these into a composite metric called the **Value Index**.
 
 ## Key Questions
 
-- Which platform provides the highest number of titles per dollar?
-- Which platform offers the most original content relative to its cost?
-- How does content quality, measured by IMDb ratings, influence value?
+- Which platform offers the highest number of titles per dollar?
+- Which service delivers the most original content relative to its cost?
+- How does content quality, measured through IMDb ratings, impact value?
 - What is the most cost-effective streaming service in 2025?
-
-## Project Structure
-
-```
-Worth-the-Watch/
-├── data/ Contains raw and processed streaming datasets
-│ ├── raw/
-│ └── processed/
-├── notebooks/ Jupyter Notebooks for processing and analysis
-├── visuals/ Final charts and visual assets
-├── requirements.txt Python libraries used
-├── LICENSE Project license (MIT)
-└── README.md Project overview
-```
 
 ## Methodology
 
-- Streaming catalog datasets for Netflix, Hulu, Max, Amazon Prime Video, and Apple TV+ were sourced from Kaggle
-- Each title was labeled as either original or non-original using the TMDb API
-- Monthly pricing data was collected manually for each platform
-- Several value metrics were engineered:
-  - Titles per dollar
-  - Originals per dollar
-  - Weighted IMDb rating per dollar (factoring in both score and vote count)
-- All metrics were normalized using Min-Max scaling to compute a composite Value Index
+### Data Collection
+
+- Catalog data for each platform was sourced from Kaggle.
+- Titles were labeled as original or non-original using the TMDb API.
+- Subscription pricing was manually collected as of 2025.
+
+### Metrics Engineered
+
+- **Titles per Dollar**: Total number of titles divided by monthly subscription cost.
+- **Originals per Dollar**: Number of original titles divided by cost.
+- **Weighted IMDb Score per Dollar**: Incorporates both rating and vote count, adjusted for price.
+
+All metrics were normalized using Min-Max scaling to generate a composite **Value Index** for each platform.
+
 
 ## Visual Insights
 
-### Value Index by Platform
-[Insert image: visuals/value_index_barplot.png]
-
-### Titles Per Dollar
-[Insert image: visuals/titles_per_dollar.png]
-
-### Originals Per Dollar
-[Insert image: visuals/originals_per_dollar.png]
+<table>
+  <tr>
+    <td align="center">
+      <img src="Visuals/Value%20Index%20Bar%20Chart.png" width="200"/><br>
+      <b>Value Index</b><br>
+      Overall value score.
+    </td>
+    <td align="center">
+      <img src="Visuals/Heatmap%20–%20Normalized%20Metrics.png" width="200"/><br>
+      <b>Metric Breakdown</b><br>
+      Scores by metric.
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="Visuals/IMDb%20Score%20per%20Dollar%20(Lollipop%20Chart).png" width="200"/><br>
+      <b>IMDb/$</b><br>
+      Quality per dollar.
+    </td>
+    <td align="center">
+      <img src="Visuals/IMDb%20vs%20Titles%20per%20Dollar%20(Bubble%20Chart).png" width="200"/><br>
+      <b>Titles vs Rating</b><br>
+      Quantity vs quality.
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="Visuals/Originals%20per%20Dollar%20(Donut%20Chart).png" width="200"/><br>
+      <b>Originals/$</b><br>
+      Original content efficiency.
+    </td>
+    <td align="center">
+      <img src="Visuals/Total%20Titles%20—%20Amazon%20vs%20Others.png" width="200"/><br>
+      <b>Catalog Size</b><br>
+      Total titles.
+    </td>
+  </tr>
+</table>
 
 ## Summary of Findings
 
-- Apple TV+ offers the highest overall value due to strong ratings and low cost
-- Netflix has the largest number of original titles and ranks high in value
-- Amazon Prime Video offers the most titles overall and performs well in cost-efficiency
-- Max offers highly rated content but provides fewer titles, resulting in lower overall value
-- Hulu delivers moderate content value but has the lowest value index when price is factored in
+1. **Apple TV Plus** – Best overall value: low price, top-rated content, highly efficient.
+2. **Netflix** – Strong in originals: high cost but unmatched exclusive content.
+3. **Prime Video** – Huge catalog: best for volume, average quality, few originals.
+4. **Max** – High-quality but small library: solid shows, poor cost efficiency.
+5. **Hulu** – Weakest value: most expensive, small catalog, few originals.
 
 ## Recommendations
 
-- Choose Apple TV+ for high-quality content at a low cost
-- Subscribe to Netflix if you prioritize original and exclusive series
-- Opt for Amazon Prime Video if you want the most content per dollar spent
-- Consider Max for high-rated shows, but only if prestige content is your priority
-- Use Hulu as part of a bundle rather than a standalone subscription
+- **Best Duo**: Apple TV+ + Netflix – Prestige + originals at good value.
+- **Core Option**: Use Prime Video – Great variety; add others for uniqueness.
+- **Want Exclusives?** Netflix solo – Top platform for new original content.
+- **Avoid Hulu Solo** – Not worth it unless part of a bundle deal.
+- **Seasonal Sub**: Use Max when shows drop – Cancel when done.
+- **Top Pick**: Apple TV+ – Cheapest, most efficient, critically acclaimed.
 
 ## Medium Article
 
-A detailed walkthrough of this project is available in the Medium article:
+For a complete breakdown of the data, methodology, and insights, check out the Medium article:
 
-**[Read on Medium](https://medium.com/your-article-link)**  
-
-## How to Run
-
-1. Clone this repository:
-   git clone https://github.com/nitya-ar/Worth-the-Watch.git
-
-2. Navigate into the project:
-   cd Worth-the-Watch
-
-3. Install dependencies:
-   pip install -r requirements.txt
-
-4. Open and run the notebooks in Jupyter or VS Code
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
+**Read on Medium**  
+*(Insert article link here)*
 
 ## Author
 
 Nitya Arya  
 [GitHub](https://github.com/nitya-ar)  
 [Medium](https://medium.com/@your-medium-profile)
+[LinkedIn](https://www.linkedin.com/in/nitya-arya/)
