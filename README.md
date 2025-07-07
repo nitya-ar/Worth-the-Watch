@@ -90,23 +90,43 @@ Platform-wise total content offerings.
 
 ## Summary of Findings
 
-The analysis reveals that value in streaming is multi-dimensional—it is not just about how many titles a platform offers, but how well those titles perform and what users get for each dollar spent.
+The Value Index ranks streaming platforms based on the return they offer for every dollar spent, factoring in content quality, originality, and catalog size.
 
-- **Apple TV+** offers the highest value overall. Despite a smaller library, it consistently delivers top-rated content at a highly competitive subscription price. Its cost-to-quality ratio is unmatched.
-- **Netflix** leads in original content volume and performs strongly across all value dimensions. It is the most dominant platform in terms of exclusive productions.
-- **Amazon Prime Video** has the largest content library, providing the highest number of titles per dollar. While its content quality is average, the sheer quantity drives its value up.
-- **Max** is a platform with highly rated content, but its smaller catalog limits overall value efficiency. It shines in quality but lags in breadth.
-- **Hulu** has the highest average IMDb rating, but its limited original content and modest catalog size reduce its value when evaluated per dollar spent.
+### 1. Apple TV Plus  
+Ranks first in overall value. Delivers consistently top-rated content at the lowest subscription price. A smaller catalog is offset by strong critical acclaim and high efficiency.
 
-These results are derived from a normalized comparison of catalog size, content originality, IMDb ratings, and cost.
+### 2. Netflix  
+Ranks second. Leads in original content volume and maintains strong value overall. Despite a higher price, its investment in exclusives boosts its performance.
+
+### 3. Amazon Prime Video  
+Ranks third. Offers the largest catalog by far with thousands of titles per dollar. However, average ratings and fewer originals limit its overall value.
+
+### 4. Max  
+Ranks fourth. Known for high-quality content but has fewer titles and originals than competitors. The subscription price outweighs the depth of its library.
+
+### 5. Hulu  
+Ranks last. Has the most expensive plan with modest catalog size and minimal original content. Provides the lowest return for cost.
 
 ## Recommendations
 
-- **Apple TV+** is ideal for viewers focused on premium storytelling and critical acclaim without a high price tag.
-- **Netflix** is the best choice for those who prioritize access to a wide range of exclusive and original programming.
-- **Amazon Prime Video** is suited for consumers seeking content volume and general affordability.
-- **Max** is recommended for audiences who prefer quality over quantity and are willing to pay a bit more for curated, high-rated content.
-- **Hulu** is best considered as part of a bundled offering rather than a standalone service due to its relatively weaker value proposition.
+### Combine Apple TV Plus and Netflix  
+This duo delivers maximum value. Apple TV Plus offers prestige at a low cost, while Netflix brings a broad slate of original content.
+
+### Use Amazon Prime Video as your core service  
+Best for general variety and volume. Add other platforms to complement originality or critical acclaim.
+
+### Subscribe to Netflix solo if you want originals  
+No platform outperforms Netflix in exclusive content. Ideal for users who want the latest shows first.
+
+### Skip Hulu unless it comes in a bundle  
+Standalone value is weak. Only worthwhile if part of a discounted package.
+
+### Use Max as a seasonal subscription  
+Great for specific high-quality shows. Subscribe when needed, cancel when content runs out.
+
+### Pick Apple TV Plus for top value  
+Best all-around option. Balances low cost with critically acclaimed content.
+
 
 ## Medium Article
 
