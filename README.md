@@ -98,12 +98,12 @@ Platform-wise total content offerings.
 
 ## Recommendations
 
-**Combine Apple TV Plus and Netflix** - This duo delivers maximum value. Apple TV Plus offers prestige at a low cost, while Netflix brings a broad slate of original content.  
-**Use Amazon Prime Video as your core service** - Best for general variety and volume. Add other platforms to complement originality or critical acclaim.  
-**Subscribe to Netflix solo if you want originals** - No platform outperforms Netflix in exclusive content. Ideal for users who want the latest shows first.  
-**Skip Hulu unless it comes in a bundle** - Standalone value is weak. Only worthwhile if part of a discounted package.  
-**Use Max as a seasonal subscription** - Great for specific high-quality shows. Subscribe when needed, cancel when content runs out.  
-**Pick Apple TV Plus for top value** - Best all-around option. Balances low cost with critically acclaimed content.
+- **Combine Apple TV Plus and Netflix** - This duo delivers maximum value. Apple TV Plus offers prestige at a low cost, while Netflix brings a broad slate of original content.  
+- **Use Amazon Prime Video as your core service** - Best for general variety and volume. Add other platforms to complement originality or critical acclaim.  
+- **Subscribe to Netflix solo if you want originals** - No platform outperforms Netflix in exclusive content. Ideal for users who want the latest shows first.  
+- **Skip Hulu unless it comes in a bundle** - Standalone value is weak. Only worthwhile if part of a discounted package.  
+- **Use Max as a seasonal subscription** - Great for specific high-quality shows. Subscribe when needed, cancel when content runs out.  
+- **Pick Apple TV Plus for top value** - Best all-around option. Balances low cost with critically acclaimed content.
 
 ## Medium Article
 
