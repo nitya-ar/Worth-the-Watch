@@ -51,25 +51,44 @@ Worth-the-Watch/
 
 ## Visual Insights
 
-<details>
-<summary>Click to expand key charts</summary>
-
 <table>
   <tr>
-    <td><img src="Visuals/Value%20Index%20Bar%20Chart.png" width="200"/><br><b>Value Index</b><br>Overall value score.</td>
-    <td><img src="Visuals/Heatmap%20–%20Normalized%20Metrics.png" width="200"/><br><b>Metric Breakdown</b><br>Scores by metric.</td>
+    <td align="center">
+      <img src="Visuals/Value%20Index%20Bar%20Chart.png" width="200"/><br>
+      <b>Value Index</b><br>
+      Overall value score.
+    </td>
+    <td align="center">
+      <img src="Visuals/Heatmap%20–%20Normalized%20Metrics.png" width="200"/><br>
+      <b>Metric Breakdown</b><br>
+      Scores by metric.
+    </td>
   </tr>
   <tr>
-    <td><img src="Visuals/IMDb%20Score%20per%20Dollar%20(Lollipop%20Chart).png" width="200"/><br><b>IMDb/$</b><br>Quality per dollar.</td>
-    <td><img src="Visuals/IMDb%20vs%20Titles%20per%20Dollar%20(Bubble%20Chart).png" width="200"/><br><b>Titles vs Rating</b><br>Quantity vs quality.</td>
+    <td align="center">
+      <img src="Visuals/IMDb%20Score%20per%20Dollar%20(Lollipop%20Chart).png" width="200"/><br>
+      <b>IMDb/$</b><br>
+      Quality per dollar.
+    </td>
+    <td align="center">
+      <img src="Visuals/IMDb%20vs%20Titles%20per%20Dollar%20(Bubble%20Chart).png" width="200"/><br>
+      <b>Titles vs Rating</b><br>
+      Quantity vs quality.
+    </td>
   </tr>
   <tr>
-    <td><img src="Visuals/Originals%20per%20Dollar%20(Donut%20Chart).png" width="200"/><br><b>Originals/$</b><br>Original content efficiency.</td>
-    <td><img src="Visuals/Total%20Titles%20—%20Amazon%20vs%20Others.png" width="200"/><br><b>Catalog Size</b><br>Total titles.</td>
+    <td align="center">
+      <img src="Visuals/Originals%20per%20Dollar%20(Donut%20Chart).png" width="200"/><br>
+      <b>Originals/$</b><br>
+      Original content efficiency.
+    </td>
+    <td align="center">
+      <img src="Visuals/Total%20Titles%20—%20Amazon%20vs%20Others.png" width="200"/><br>
+      <b>Catalog Size</b><br>
+      Total titles.
+    </td>
   </tr>
 </table>
-
-</details>
 
 ## Summary of Findings
 
