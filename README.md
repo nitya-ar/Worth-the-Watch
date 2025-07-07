@@ -54,6 +54,7 @@ Worth-the-Watch/
 ### Value Index by Platform
 
 A composite measure combining all normalized metrics to assess overall platform value.
+<img src="Visuals/Value%20Index%20Bar%20Chart.png" width="500"/>
 
 ![Value Index](Visuals/Value%20Index%20Bar%20Chart.png)
 
