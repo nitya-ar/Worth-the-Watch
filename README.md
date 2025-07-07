@@ -6,13 +6,6 @@
 
 As streaming services expand and subscription costs increase, consumers face a common challenge: determining which platforms offer the best return on investment. This project analyzes five major streaming services—Netflix, Hulu, Max, Amazon Prime Video, and Apple TV+—to identify which delivers the most value in 2025 based on content quantity, originality, quality, and pricing.
 
-## Medium Article
-
-For a complete breakdown of the data, methodology, and insights, check out the Medium article:
-
-**Read on Medium**  
-*(Insert article link here)*
-
 ## Objective
 
 This project aims to answer the question: **Which streaming service offers the most value for money in 2025?**
@@ -101,6 +94,12 @@ All metrics were normalized using Min-Max scaling to generate a composite **Valu
 - **Seasonal Sub**: Use Max when shows drop – Cancel when done.
 - **Top Pick**: Apple TV+ – Cheapest, most efficient, critically acclaimed.
 
+## Medium Article
+
+For a complete breakdown of the data, methodology, and insights, check out the Medium article:
+
+**Read on Medium**  
+*(Insert article link here)*
 
 ## Author
 
