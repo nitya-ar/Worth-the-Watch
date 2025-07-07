@@ -107,30 +107,15 @@ Platform-wise total content offerings.
 
 ## Medium Article
 
-A full walkthrough of the methodology and findings is available in the Medium article:
+For a complete breakdown of the data, methodology, and insights, check out the Medium article:
 
 **Read on Medium**  
 *(Insert article link here)*
 
-## How to Run
-
-1. Clone this repository:
-   git clone https://github.com/nitya-ar/Worth-the-Watch.git
-
-2. Navigate into the project:
-   cd Worth-the-Watch
-
-3. Install dependencies:
-   pip install -r requirements.txt
-
-4. Open and run the notebooks in Jupyter or VS Code
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Author
 
 Nitya Arya  
 [GitHub](https://github.com/nitya-ar)  
 [Medium](https://medium.com/@your-medium-profile)
+[LinkedIn](https://www.linkedin.com/in/nitya-arya/)
