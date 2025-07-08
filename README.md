@@ -104,5 +104,5 @@ For a complete breakdown of the data, methodology, and insights, check out the M
 
 Nitya Arya  
 [GitHub](https://github.com/nitya-ar)  
-[Medium](https://medium.com/@nitya.4r/which-streaming-platform-offers-the-best-value-in-2025-2bd3b75882ed)
+[Medium](https://medium.com/@nitya.4r)
 [LinkedIn](https://www.linkedin.com/in/nitya-arya/)
