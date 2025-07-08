@@ -99,11 +99,11 @@ All metrics were normalized using Min-Max scaling to generate a composite **Valu
 For a complete breakdown of the data, methodology, and insights, check out the Medium article:
 
 **Read on Medium**  
-*(Insert article link here)*
+*[Medium](https://medium.com/@nitya.4r/which-streaming-platform-offers-the-best-value-in-2025-2bd3b75882ed)*
 
 ## Author
 
 Nitya Arya  
 [GitHub](https://github.com/nitya-ar)  
-[Medium](https://medium.com/@your-medium-profile)
+[Medium](https://medium.com/@nitya.4r/which-streaming-platform-offers-the-best-value-in-2025-2bd3b75882ed)
 [LinkedIn](https://www.linkedin.com/in/nitya-arya/)
