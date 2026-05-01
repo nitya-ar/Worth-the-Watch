@@ -2,6 +2,12 @@
 
 **A data-driven analysis comparing the value offered by major streaming platforms in 2025**
 
+## Medium Article
+
+For a complete breakdown of the data, methodology, and insights, check out the Medium article:
+
+**[Read on Medium](https://medium.com/@nitya.4r/which-streaming-platform-offers-the-best-value-in-2025-2bd3b75882ed)**
+
 ## Overview
 
 As streaming services expand and subscription costs increase, consumers face a common challenge: determining which platforms offer the best return on investment. This project analyzes five major streaming services—Netflix, Hulu, Max, Amazon Prime Video, and Apple TV+—to identify which delivers the most value in 2025 based on content quantity, originality, quality, and pricing.
@@ -92,13 +98,7 @@ All metrics were normalized using Min-Max scaling to generate a composite **Valu
 - **Want Exclusives?** Netflix solo – Top platform for new original content.
 - **Avoid Hulu Solo** – Not worth it unless part of a bundle deal.
 - **Seasonal Sub**: Use Max when shows drop – Cancel when done.
-- **Top Pick**: Apple TV+ – Cheapest, most efficient, critically acclaimed.
-
-## Medium Article
-
-For a complete breakdown of the data, methodology, and insights, check out the Medium article:
-
-**[Read on Medium](https://medium.com/@nitya.4r/which-streaming-platform-offers-the-best-value-in-2025-2bd3b75882ed)**  
+- **Top Pick**: Apple TV+ – Cheapest, most efficient, critically acclaimed.  
 
 ## Author
 
